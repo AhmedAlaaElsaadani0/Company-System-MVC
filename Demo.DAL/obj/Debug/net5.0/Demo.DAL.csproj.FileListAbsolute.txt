@@ -1,0 +1,24 @@
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll

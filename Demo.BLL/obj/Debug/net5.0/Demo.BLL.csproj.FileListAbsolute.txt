@@ -1,0 +1,30 @@
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\Demo.PL Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Web Development\Route Academy\Back-End\Back-End Assignments\7. ASP.NET Core MVC\MVC Project\MVC Project Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
